@@ -1,6 +1,6 @@
 <%-- 
-    Document   : A
-    Created on : 2023年12月19日, 上午9:52:04
+    Document   : B
+    Created on : 2023年12月19日, 上午9:55:40
     Author     : student
 --%>
 
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>commit 修改[2] A.jsp</h1>
-        <p>新增內文至 A.jsp</p>>
+        <h1>New function 新建 B.jsp </h1>
     </body>
 </html>
